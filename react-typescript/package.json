@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "An example of how to use React and TypeScript with Parcel",
   "scripts": {
-    "dev": "parcel src/index.html"
+    "dev": "npx parcel src/index.html"
   },
   "keywords": [],
   "author": "Paul Halliday",
